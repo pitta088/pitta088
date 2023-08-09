@@ -1,4 +1,9 @@
 ### hola, soy Victor Pitta  👋
+<h3 alinear="centro">Un apasionado desarrollador de aplicaciones</h3>
+
+<a objetivo="_blanco" alinear="centro">
+  <imagen alinear="bien" arriba="500" altura="300" ancho="400" alternativa="GIF" origen="https://giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 <!--
 **pitta088/pitta088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
