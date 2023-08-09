@@ -8,6 +8,7 @@
 <!--
 **pitta088/pitta088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+🌱 Actualmente estoy trabajando en un sistema con codigos 👨‍💻PHP,CSS,HTML💻.
+🌱 utilizamos archivos J.son para Ayax (JavaScript asíncrono y XML, por sus siglas en inglés)
