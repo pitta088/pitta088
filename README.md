@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 </a>
 🌱 Actualmente estoy trabajando en un sistema con codigos 👨‍💻PHP,CSS,HTML💻.
 🌱 utilizamos archivos J.son para Ajax (JavaScript asíncrono y XML, por sus siglas en inglés)
+📺 utilizamos la electricidad en el ámbito de la medicina.🦾sistemas para Electromedicina clinica.
+Y la ciencias del electromagnetismo de la ingeniería eléctrica y la ciencia de la mecánica. Electromecanico.
