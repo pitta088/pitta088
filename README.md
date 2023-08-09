@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 🌱 Actualmente estoy trabajando en un sistema con codigos 👨‍💻PHP,CSS,HTML💻.
-🌱 utilizamos archivos J.son para Ayax (JavaScript asíncrono y XML, por sus siglas en inglés)
+🌱 utilizamos archivos J.son para Ajax (JavaScript asíncrono y XML, por sus siglas en inglés)
